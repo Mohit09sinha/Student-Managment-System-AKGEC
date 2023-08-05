@@ -3,7 +3,7 @@
 -Graphical user interface project to admit and manage the student profile in College.<br>
 -used by various educational institutions to handle student data and many other data requirements related to student.<br>
 
-Technolgy Used : Python, Workbench, Tkinter, HTML, CSS, DBMS, Sqlite<br>
+Technolgy Used : Python, SQL Workbench, Tkinter, DBMS, Sqlite<br>
 
 <h2>#OUTPUT </h2>
 
